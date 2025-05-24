@@ -6,13 +6,13 @@
 
 ## 👤 About Me
 
-👋🏼 Hi, I’m **Saif** — an AI enthusiast and Software Developer  
-💡 Passionate about Artificial Intelligence and building full-stack web solutions  
-🚀 Currently working on AI projects and exploring real-world applications  
-📘 Always learning — diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques
-🤝🏼 Open to collaborating on innovative and impactful projects  
-📩 Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
-🎧 Fun fact: I love turning complex problems into elegant, working code — and I enjoy traveling and listening to music in my free time
+👋🏼 Hi, I’m **Saif** — an AI enthusiast and Software Developer.  
+💡 Passionate about Artificial Intelligence and building full-stack web solutions.  
+🚀 Currently working on AI projects and exploring real-world applications.  
+📘 Always learning — diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques.
+🤝🏼 Open to collaborating on innovative and impactful projects.  
+📩 Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com).  
+🎧 Fun fact: I love turning complex problems into elegant, working code — and I enjoy traveling and listening to music in my free time.
 
 
 ## 🛠️ Technologies & Tools
