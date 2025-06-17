@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-👋🏼 Hi, I’m **Saif** — an AI enthusiast and Software Developer.  
+👋🏼 Hi, I’m an AI enthusiast and Software Developer.  
 💡 Passionate about Artificial Intelligence and building full-stack web solutions.  
 🚀 Currently working on AI projects and exploring real-world applications.  
 📘 Always learning — diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques.  
