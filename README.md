@@ -14,7 +14,6 @@
 📘 Always learning — diving deep into machine learning, deep learning, large language models (LLMs), and modern AI techniques.  
 🤝🏼 Open to collaborating on innovative and impactful projects.  
 📩 Reach me at: [dev.mdsaifulislam@gmail.com](mailto:dev.mdsaifulislam@gmail.com)  
-🎧 Fun fact: I enjoy traveling and listening to music in my free time.
 
 🌐 **Portfolio**: [msi-saif.netlify.app](https://msi-saif.netlify.app)
 
